@@ -1,3 +1,6 @@
+## 20210110
+* update the download link of OpenClash
+
 ## 20201102
 * 常规更新
 
