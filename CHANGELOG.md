@@ -1,6 +1,5 @@
 ## 20210110
-* Compile for the first time.
-* trigger github action
+* Modified: point the version of OpenClash (TUN-Premium) to https://github.com/vernesong/OpenClash/releases/download/TUN-Premium/clash-linux-armv8-2021.01.01.g0ab75c5.gz
 
 ## 20201102
 * 常规更新
