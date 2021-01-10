@@ -1,5 +1,5 @@
 ## 20210110
-* First compile
+* Compile for the first time.
 
 ## 20201102
 * 常规更新
