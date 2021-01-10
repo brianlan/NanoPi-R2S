@@ -1,5 +1,6 @@
 ## 20210110
 * Compile for the first time.
+* trigger github action
 
 ## 20201102
 * 常规更新
